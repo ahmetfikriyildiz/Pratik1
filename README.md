@@ -2,7 +2,7 @@ Proje Önsöz
 
 Merhaba!
 
-Bu projede, Patika+ Bootcamp'te bulunma nedenimi bir C# konsol uygulaması ile ifade eden basit bir program oluşturdum.
+Bu projede, Patika+ Bootcamp'te bulunma nedenimi ifade eden programı oluşturdum.
 
 ---
 Kod
