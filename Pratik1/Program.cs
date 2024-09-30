@@ -1,5 +1,7 @@
-﻿Console.WriteLine("Ahmet Fikri YILDIZ");// burda adım ve soyadımı yazdım.
+﻿// Aşağıdaki kod satırlarında adımı soyadımı ve bootcamp'te bulunma sebebimi açıkladım.
 
-Console.Write("Patika'nin uzman kadrosu ve deneyimli egitmenleri sayesinde yazilim dünyasina hizli bir sekilde giris yapabilecegim için bu bootcampteyim."); // burda bootcamp'te bulunma sebebimi yazdım.
+Console.WriteLine("Ahmet Fikri YILDIZ");
+
+Console.Write("Patika'nin uzman kadrosu ve deneyimli egitmenleri sayesinde yazilim dünyasina hizli bir sekilde giris yapabilecegim için bu bootcampteyim."); 
 
 Console.ReadLine(); //kodun consoledaki çıktısı daha güzel gözüksün diye bir kod ekledim.
